@@ -5,7 +5,7 @@
 
 .bg-image {
     width: 100%;
-    background-image: url("/images/illustrations/destination_1.jpg.webp");
+    background-image: url("../images/background/travel-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
